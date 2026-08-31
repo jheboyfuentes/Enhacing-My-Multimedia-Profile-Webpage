@@ -1,1 +1,439 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Personal Profile</title>
+</head>
 
+<body>
+
+<center>
+
+<h1>Jheboy R. Fuentes</h1>
+
+<h2>My Personal Profile</h2>
+
+<p>
+Hello! My name is <b>Jheboy R. Fuentes</b>.<br>
+I am a <b>Grade 11 TechPro-ICT</b> student.<br>
+My birthday is <i>November 18 2006</i>.
+</p>
+
+<img src="744358110_122233376390922945_1910383972000814199_n.jpg"
+alt="Profile Picture"
+width="180"
+height="220">
+
+<p>
+<b>This picture represents my passion for technology and my dream of becoming a successful Game Developer and IT Professional.</b>
+</p>
+
+<table border="1" cellpadding="5" cellspacing="0">
+
+<tr>
+    <th colspan="2">Personal Information Summary</th>
+</tr>
+
+<tr>
+    <th>Information</th>
+    <th>Details</th>
+</tr>
+
+<tr>
+    <td>Full Name</td>
+    <td>Jheboy R. Fuentes</td>
+</tr>
+
+<tr>
+    <td>Grade & Strand</td>
+    <td>Grade 11 - TechPro ICT</td>
+</tr>
+
+<tr>
+    <td>Birthday</td>
+    <td>November 18 2006/td>
+</tr>
+
+<tr>
+    <td>Favorite Hobby</td>
+    <td>Playing Video Games</td>
+</tr>
+
+<tr>
+    <td>Dream Career</td>
+    <td>Game Developer / IT Professional</td>
+</tr>
+
+</table>
+
+</center>
+
+<hr>
+
+<h2>About Me</h2>
+
+<p>
+Hello! I am <b>Jheboy R. Fuentes</b>. I am a respectful, hardworking, and friendly student who loves learning about computers and technology. My favorite hobby is <b>playing video games</b> because they help me improve my focus, creativity, and problem-solving skills. Playing different games also inspires me to learn programming so that one day I can create my own games. I always do my best in school because I believe that hard work and determination will help me achieve my dreams.
+</p>
+
+<h2>My Skills</h2>
+
+<ul>
+    <li>Basic HTML Coding</li>
+    <li>Computer Troubleshooting</li>
+    <li>Gaming Strategy</li>
+    <li>Typing Skills</li>
+    <li>Teamwork</li>
+    <li>Problem Solving</li>
+</ul>
+
+<table border="1" cellpadding="5" cellspacing="0">
+
+<tr>
+    <th colspan="3">My Skills Summary</th>
+</tr>
+
+<tr>
+    <th>Skill</th>
+    <th>Level</th>
+    <th>Purpose</th>
+</tr>
+
+<tr>
+    <td>HTML</td>
+    <td>Beginner</td>
+    <td>Create Web Pages</td>
+</tr>
+
+<tr>
+    <td>Typing</td>
+    <td>Good</td>
+    <td>Finish School Tasks Faster</td>
+</tr>
+
+<tr>
+    <td>Computer Troubleshooting</td>
+    <td>Basic</td>
+    <td>Fix Simple Computer Problems</td>
+</tr>
+
+<tr>
+    <td>Gaming Strategy</td>
+    <td>Good</td>
+    <td>Improve Decision Making</td>
+</tr>
+
+<tr>
+    <td>Problem Solving</td>
+    <td>Improving</td>
+    <td>Find Better Solutions</td>
+</tr>
+
+</table>
+
+<hr>
+
+<h2>My Hobbies and Interests</h2>
+
+<ul>
+    <li>Playing Video Games</li>
+    <li>Watching Gaming Videos</li>
+    <li>Listening to Music</li>
+    <li>Playing Basketball</li>
+    <li>Browsing the Internet</li>
+    <li>Spending Time with Friends</li>
+</ul>
+
+<center>
+
+<h3>My Favorite Video</h3>
+
+<video width="450" controls>
+    <source src="CrossFire - SEVEN's Future.mp4" type="video/mp4">
+</video>
+
+</center>
+
+<p>
+This video represents my love for playing video games. Gaming is one of my favorite hobbies because it helps me relax, improves my thinking skills, and gives me enjoyable moments with my friends.
+</p>
+
+<table border="1" cellpadding="5" cellspacing="0">
+
+<tr>
+    <th colspan="3">Hobbies and Interests Summary</th>
+</tr>
+
+<tr>
+    <th>Hobby</th>
+    <th>Reason</th>
+    <th>Frequency</th>
+</tr>
+
+<tr>
+    <td>Playing Video Games</td>
+    <td>It helps me relax and enjoy my free time.</td>
+    <td>Everyday</td>
+</tr>
+
+<tr>
+    <td>Watching Gaming Videos</td>
+    <td>I learn new strategies and tips.</td>
+    <td>Often</td>
+</tr>
+
+<tr>
+    <td>Listening to Music</td>
+    <td>It keeps me calm and entertained.</td>
+    <td>Daily</td>
+</tr>
+
+<tr>
+    <td>Playing Basketball</td>
+    <td>It keeps me active and healthy.</td>
+    <td>Weekends</td>
+</tr>
+
+<tr>
+    <td>Browsing the Internet</td>
+    <td>I enjoy learning new things online.</td>
+    <td>Daily</td>
+</tr>
+
+</table>
+
+<hr>
+
+<h2>My Top 5 Favorite Foods</h2>
+
+<ol>
+    <li>Burger</li>
+    <li>Pizza</li>
+    <li>Fried Chicken</li>
+    <li>Spaghetti</li>
+    <li>French Fries</li>
+</ol>
+
+<hr>
+
+<h2>My Favorite Things</h2>
+
+<p>
+My favorite hobby is <b>Playing Video Games</b>. I enjoy drinking orange juice because it is refreshing after a long day. Water is written as H<sub>2</sub>O, and one math expression I remember is x<sup>2</sup> + y<sup>2</sup>.
+</p>
+
+<center>
+
+<audio controls>
+    <source src="Kalapastangan - fitterkarma (Lyrics) (1).mp3" type="audio/mpeg">
+</audio>
+
+</center>
+
+<p>
+This audio is one of my favorite songs because I enjoy listening to it while playing video games or relaxing after school.
+</p>
+
+<table border="1" cellpadding="5" cellspacing="0">
+
+<tr>
+    <th colspan="3">My Favorite Things Summary</th>
+</tr>
+
+<tr>
+    <th>Category</th>
+    <th>Favorite</th>
+    <th>Reason</th>
+</tr>
+
+<tr>
+    <td>Game</td>
+    <td>CrossFire</td>
+    <td>It is exciting and fun to play.</td>
+</tr>
+
+<tr>
+    <td>Food</td>
+    <td>Burger</td>
+    <td>It is my favorite meal.</td>
+</tr>
+
+<tr>
+    <td>Drink</td>
+    <td>Orange Juice</td>
+    <td>It is refreshing.</td>
+</tr>
+
+<tr>
+    <td>Color</td>
+    <td>Black</td>
+    <td>I like its simple and cool appearance.</td>
+</tr>
+
+<tr>
+    <td>Subject</td>
+    <td>Computer Programming</td>
+    <td>I want to create games and websites someday.</td>
+</tr>
+
+</table>
+
+<hr>
+<h2>My Educational Goals</h2>
+
+<p>
+My educational goal is to finish Senior High School with good grades and continue studying Information Technology in college. I want to improve my programming skills so I can become a successful <b>Game Developer</b> or <b>IT Professional</b>. I believe that hard work, patience, and determination will help me achieve my dreams.
+</p>
+
+<ol>
+    <li>Finish Senior High School successfully.</li>
+    <li>Improve my HTML, CSS, and JavaScript skills.</li>
+    <li>Learn different programming languages.</li>
+    <li>Graduate from college with an IT degree.</li>
+    <li>Become a successful Game Developer or IT Professional.</li>
+</ol>
+
+<table border="1" cellpadding="5" cellspacing="0">
+
+<tr>
+    <th colspan="3">My Educational Goals Summary</th>
+</tr>
+
+<tr>
+    <th>Goal</th>
+    <th>Skill to Improve</th>
+    <th>Target Time</th>
+</tr>
+
+<tr>
+    <td>Finish Grade 11</td>
+    <td>Study Habits</td>
+    <td>This School Year</td>
+</tr>
+
+<tr>
+    <td>Graduate Senior High School</td>
+    <td>Academic Performance</td>
+    <td>Grade 12</td>
+</tr>
+
+<tr>
+    <td>Learn Web Development</td>
+    <td>HTML, CSS, JavaScript</td>
+    <td>Next School Year</td>
+</tr>
+
+<tr>
+    <td>Graduate from College</td>
+    <td>Information Technology</td>
+    <td>Future</td>
+</tr>
+
+<tr>
+    <td>Become a Game Developer</td>
+    <td>Programming & Creativity</td>
+    <td>After Graduation</td>
+</tr>
+
+</table>
+
+<hr>
+
+<h2>My Daily Routine</h2>
+
+<ol>
+    <li>Wake up early.</li>
+    <li>Prepare for school.</li>
+    <li>Attend my classes.</li>
+    <li>Study and finish my assignments.</li>
+    <li>Play video games after my schoolwork.</li>
+    <li>Spend time with my family.</li>
+</ol>
+
+<table border="1" cellpadding="5" cellspacing="0">
+
+<tr>
+    <th colspan="3">My Daily Routine Summary</th>
+</tr>
+
+<tr>
+    <th>Time</th>
+    <th>Activity</th>
+    <th>Purpose</th>
+</tr>
+
+<tr>
+    <td>Morning</td>
+    <td>Prepare for School</td>
+    <td>Start the day prepared.</td>
+</tr>
+
+<tr>
+    <td>School Hours</td>
+    <td>Attend Classes</td>
+    <td>Learn new lessons.</td>
+</tr>
+
+<tr>
+    <td>Afternoon</td>
+    <td>Study and Homework</td>
+    <td>Improve my knowledge.</td>
+</tr>
+
+<tr>
+    <td>Evening</td>
+    <td>Play Video Games</td>
+    <td>Relax after studying.</td>
+</tr>
+
+<tr>
+    <td>Night</td>
+    <td>Sleep</td>
+    <td>Stay healthy and energized.</td>
+</tr>
+
+</table>
+
+<hr>
+
+<h2>My Dream Career</h2>
+
+<p>
+My dream is to become a <b>Game Developer</b> or an <b>IT Professional</b>. I want to create fun and exciting games that people of all ages can enjoy. I also want to build useful websites and software that can help others. My passion for technology and video games inspires me to keep learning every day.
+</p>
+
+<hr>
+
+<h2>Fun Facts About Me</h2>
+
+<ul>
+    <li>I enjoy playing video games every day.</li>
+    <li>I like discovering new games and challenges.</li>
+    <li>I enjoy listening to music while gaming.</li>
+    <li>I like learning about computers and technology.</li>
+    <li>I always try to improve my gaming and programming skills.</li>
+</ul>
+
+<hr>
+
+<h2>My Personal Motto</h2>
+
+<p>
+<i>"Play with passion, learn with purpose, and never stop chasing your dreams."</i>
+</p>
+
+<hr>
+
+<center>
+
+<h3>End of My Personal Profile</h3>
+
+<p>
+Thank you for taking the time to visit my personal profile.
+I hope you enjoyed learning more about me.
+Have a great day!
+</p>
+
+</center>
+
+</body>
+</html>
